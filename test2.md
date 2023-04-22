@@ -1,5 +1,5 @@
 ---
 title: wow
-updated: ur moms bday lol
+created: ur moms bday lol
 ---
 sheeshers
